@@ -52,8 +52,7 @@ while True:
                 print('You got',amountwon,'dollars')
             else:
                 print('You lost!')
-print('You are out of money.')
-print('Come back next time!')
+print('You are out of money,come back next time!')
 print()
             
                       
