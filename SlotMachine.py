@@ -50,25 +50,10 @@ while True:
                 amountwon = bet*2
                 Dollars += amountwon
                 print('You got',amountwon,'dollars')
+            if square1 == square4:
+                amountwon = bet*1.5
+                print('you only get',amountwon,'dollars')
             else:
                 print('You lost!')
 print('You are out of money,come back next time!')
-print()
-            
-                      
-            
-
-        
-
-            
-
-
-        
-
-        
-
-            
-                
-
-
-          
+print()         
