@@ -37,7 +37,7 @@ while True:
             print()
 
 
-            #Odds of the slot machine (each win has it's own different message depending on the amount won)
+            #Each win has it's own different message depending on the amount won
             if square1 == square2 and square2 == square3 and square3 == square4:
                 amountwon = bet*32
                 print('JACKPOT! YOU WON',amountwon,'DOLLARS!!!!')
