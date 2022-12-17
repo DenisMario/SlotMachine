@@ -27,11 +27,13 @@ while True:
          
 
             print()
+            print('================================================')
             print('[|]',random.choice(symbols),'|\|',random.choice(symbols),'|||',random.choice(symbols),'|/|',random.choice(symbols),'[|]')
             print('------------------------------------------------')
             print('[|]',square1,'|\|',square2,'|||',square3,'|/|',square4,'[|]')
             print('------------------------------------------------')
             print('[|]',random.choice(symbols),'|\|',random.choice(symbols),'|||',random.choice(symbols),'|/|',random.choice(symbols),'[|]')
+            print('================================================')
             print()
 
 
